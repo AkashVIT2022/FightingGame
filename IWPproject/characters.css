@@ -1,0 +1,23 @@
+div{
+    background-color: rgb(239, 128, 43);
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 7px;
+    font-family: 'Merriweather', serif;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+#intro{
+    font-family: 'Merriweather', serif;
+    color:yellow;
+}
+
+body{
+    background-color:black;
+}
+
+h1{
+    color:white;
+    font-size: 50px;
+}
